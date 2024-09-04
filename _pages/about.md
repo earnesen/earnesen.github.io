@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>PLC 521r</p>
-    <p>1415 Kincaid St. </p>
+    <p>PLC 521</p>
+    <p>1415 Kincaid St.</p>
     <p>Eugene, OR 97403</p>
 
 news: false # includes a list of news items
