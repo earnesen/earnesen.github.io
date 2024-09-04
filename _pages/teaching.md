@@ -7,19 +7,19 @@ nav: true
 nav_order: 2
 ---
 
-Courses Taught as a Sole Instructor
+**Courses Taught as a Sole Instructor**
   -  Intro Econ Analy Micro (EC 201)- Fall 2024
   -  Intro Econ Analy Macro (EC 202)- Fall 2023, Winter 2024
   -  Labor Market Issues (EC 350)- Summer 2022, Winter 2023
 
 
-Courses as a TA
+**Courses as a TA**
   - Intro Econ Analy Micro (EC 201)- Fall 2020
   - Intro Econ Analy Macro (EC 202)- Winter 2021
   - Intro to Econometrics (EC 320) - Fall 2022
 
 
-Selected Student Comments
+**Selected Student Comments**
   - "Having this be a repeat class for me, the projects and assignments have been more relevant than when I have taken this class before. The use of Smartwork as homework is very helpful using what I have learned in the lectures in a practical questions, which also makes the exam less daunting. I also really enjoy the use of Inquizative because it allows me to engage with the information within the textbook rather than just reading it. I think that the combinations of assignments and projects within this course really have been the most helpful in being successful in this course." - EC 202 Winter 2024
   - "Emily always reminds us that we can easily and e ectively communicate with her via o ce hours or email. We also do mandatory check-in surveys so she can better assess how we are doing. Emily's communication has set her apart from many other professors." - EC 202 Fall 2023
   - "Emily goes the extra mile with both canvas and email communication about clarification and points opportunities. This is incredibly helpful considering it is an online class. Her feedback is constructive and always conveys a genuinely supportive tone towards her students." - EC 202 Winter 2024
