@@ -226,7 +226,12 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_pages"]
+include: 
+  - 404.md
+  - about.md
+  - about_einstein.md
+  - cv.md
+  - teaching.md
 exclude:
   - bin/
   - CONTRIBUTING.md
@@ -247,6 +252,13 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - repositories.md
+  - publications.md
+  - projects.md
+  - profiles.md
+  - news.md
+  - dropdown.md
+  - blog.md
 keep_files:
   - CNAME
   - .nojekyll
