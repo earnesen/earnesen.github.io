@@ -8,11 +8,11 @@ nav_order: 1
 ---
 
 ## Publications
-(Improving Programming in Juvenile Detention: The Impact of Project Safe Neighborhoods Youth Outreach Forums)[https://link.springer.com/article/10.1007/s10940-024-09584-5] (with Jon Davis and Tracey Meares)
+[Improving Programming in Juvenile Detention: The Impact of Project Safe Neighborhoods Youth Outreach Forums](https://link.springer.com/article/10.1007/s10940-024-09584-5) (with Jon Davis and Tracey Meares)
 
 ## Working Papers
 Teacher Raises, Retention, and Education 
-(Sports Betting Legalization Amplifies Emotional Cues and Inimate Partner Violence)[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4938642] (with Kyu Matsuzawa)
+[Sports Betting Legalization Amplifies Emotional Cues and Inimate Partner Violence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4938642) (with Kyu Matsuzawa)
 
 ## Works in Progress
 Education is More than Teachers: The Impact of Physical, Social, and Emotional Support Staff on Student Outcomes
