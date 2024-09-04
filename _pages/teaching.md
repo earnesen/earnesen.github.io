@@ -4,7 +4,7 @@ permalink: /Teaching/
 title: Teaching
 description: Throughout my time at the University of Oregon, I have taught Principles courses as a sole instructor as well as labor economics. I have also served as a TA for many courses.
 nav: true
-nav_order: 6
+nav_order: 2
 ---
 
 Courses Taught as a Sole Instructor
