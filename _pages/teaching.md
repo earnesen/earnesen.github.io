@@ -1,12 +1,17 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+permalink: /Teaching/
+title: Teaching
+description: Throughout my time at the University of Oregon, I have taught Principles courses as a sole instructor as well as labor economics. I have also served as a TA for many courses.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Courses Taught as a Sole Instructor
+  - Intro Econ Analy Micro (EC 201)- Fall 2024
+  -  Intro Econ Analy Macro (EC 202)- Fall 2023, Winter 2024
+  -  Labor Market Issues (EC 350)- Summer 2022, Winter 2023
 
-Organize your courses by years, topics, or universities, however you like!
+
+
+Courses as a TA
