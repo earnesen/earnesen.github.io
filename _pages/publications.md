@@ -18,4 +18,5 @@ Teacher Raises, Retention, and Education (Job Market Paper)
 [Sports Betting Legalization Amplifies Emotional Cues and Inimate Partner Violence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4938642) (with Kyu Matsuzawa)
 
 **Works in Progress**
+
 Education is More than Teachers: The Impact of Physical, Social, and Emotional Support Staff on Student Outcomes
