@@ -8,9 +8,15 @@ nav_order: 2
 ---
 
 **Courses Taught as a Sole Instructor**
-  -  Intro Econ Analy Micro (EC 201)- Fall 2024
+  -  Intro Econ Analy Micro (EC 201)- Fall 2024 (scheduled)
   -  Intro Econ Analy Macro (EC 202)- Fall 2023, Winter 2024
+    - Enrollment: 106 (F), 99 (W)
+    - [Syllabus](/assets/pdf/EC_202_Syllabus_Winter_2024.pdf), [Sample Schedule](/assets/pdf/EC_202_Suggested_Schedule_Winter_2024.pdf)
+    - [Course Evaluations](/assets/pdf/EC_202_Evals.pdf)
   -  Labor Market Issues (EC 350)- Summer 2022, Winter 2023
+    - Enrollment: 21 (S), 19 (W)
+    - [Syllabus](/assets/pdf/EC_350_Syllabus_Winter_2023.pdf), [4-Week Syllabus](/assets/pdf/EC_350_Syllabus_Summer_2022.pdf)
+    - [Course Evaluations](/assets/pdf/EC_350_Evals.pdf)
 
 
 **Courses as a TA**
