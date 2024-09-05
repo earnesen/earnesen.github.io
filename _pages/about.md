@@ -5,9 +5,9 @@ permalink: /
 subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: left
-  image: headshop_croped.jpg
-  image_circular: false # crops the image to make it circular
+  align: right
+  image: headshot_full.jpg
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>PLC 521</p>
     <p>1415 Kincaid St.</p>
