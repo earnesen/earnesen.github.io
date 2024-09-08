@@ -30,6 +30,7 @@ nav_order: 2
   - Intro Econ Analy Micro (EC 201)- Fall 2020
   - Intro Econ Analy Macro (EC 202)- Winter 2021
   - Intro to Econometrics (EC 320) - Fall 2022
+  - Sem Core Micro (EC 607)- Fall 2021 and Spring 2022
 
 
 **Selected Student Comments**
