@@ -16,7 +16,7 @@ Davis, Jonathan M. V., Tracey Meares, and Emily Arnesen. ["Improving Programming
 
 Do Budgets Reflect Priorities? The Impact of School Funding Reform on Districts and Teachers in Washington State (Job Market Paper) 
 
-[Sports Betting Legalization Amplifies Emotional Cues and Inimate Partner Violence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4938642) (with Kyu Matsuzawa)
+[Sports Betting Legalization Amplifies Emotional Cues and Inimate Partner Violence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4938642) (with Kyu Matsuzawa). SSRN Working Paper No. 4938642.
 
 **Works in Progress**
 
