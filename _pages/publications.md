@@ -9,11 +9,12 @@ nav_order: 1
 
 **Publications**
 
-[Improving Programming in Juvenile Detention: The Impact of Project Safe Neighborhoods Youth Outreach Forums](https://link.springer.com/article/10.1007/s10940-024-09584-5) (with Jon Davis and Tracey Meares)
+Davis, Jonathan M. V., Tracey Meares, and Emily Arnesen. ["Improving Programming in Juvenile Detention: The Impact of Project Safe Neighborhoods Youth Outreach Forums."](https://link.springer.com/article/10.1007/s10940-024-09584-5) Journal of Quantitative Criminology (2024): 1-28.
+
 
 **Working Papers**
 
-Teacher Raises, Retention, and Education (Job Market Paper) 
+Do Budgets Reflect Priorities? The Impact of School Funding Reform on Districts and Teachers in Washington State (Job Market Paper) 
 
 [Sports Betting Legalization Amplifies Emotional Cues and Inimate Partner Violence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4938642) (with Kyu Matsuzawa)
 
