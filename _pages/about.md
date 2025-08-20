@@ -18,4 +18,5 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an economics PhD candidate at the University of Oregon. I am an applied microeconomist with interests in education, labor and public economics with a specific interest in researching how public policies impact labor retention, schooling outcomes, and criminality. I will be on the job market for the 2024-2025 academic year.
+I am an applied microeconomist with broad interests in labor, education, and public economics. My research focuses on understanding how public policies influence criminal behavior. In Fall 2025, I will be joining Washington State University Vancouver as a Career-Track Assistant Professor.
+
