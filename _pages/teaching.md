@@ -7,7 +7,11 @@ nav: true
 nav_order: 2
 ---
 
-**Courses Taught as a Sole Instructor**
+**Courses Taught at WSU Vancouver**
+  - Fundamentals of Microeconomics (ECONS 101)- Fall 2025
+  - Fundamentals of Macroeconomics (ECONS 102)- Fall 2025
+
+**Courses Taught at the University of Oregon**
   -  Intro Econ Analy Micro (EC 201)- Fall 2024 
   -  Intro Econ Analy Macro (EC 202)- Fall 2023, Winter 2024
 
@@ -26,11 +30,7 @@ nav_order: 2
      - [Course Evaluations](/assets/pdf/EC_350_Evals.pdf)
 
 
-**Courses as a TA**
-  - Intro Econ Analy Micro (EC 201)- Fall 2020
-  - Intro Econ Analy Macro (EC 202)- Winter 2021
-  - Intro to Econometrics (EC 320) - Fall 2022
-  - Sem Core Micro (EC 607)- Fall 2021 and Spring 2022
+
 
 
 **Selected Student Comments**
