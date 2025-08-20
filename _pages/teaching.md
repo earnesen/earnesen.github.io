@@ -2,13 +2,13 @@
 layout: page
 permalink: /Teaching/
 title: Teaching
-description: As a graduate student, I have developed a broad teaching portfolio, instructing courses across in-person, online synchronous, and online asynchronous formats. My experience includes teaching classes with enrollments ranging from 19 to 106 students. I was honored to receive the University of Oregon Economics Department Graduate Teaching Award for the 2023-2024 academic year, which is awarded based on cumulative teaching accomplishments and qualitative student feedback. I prioritize creating a welcoming and inclusive classroom atmosphere where students feel comfortable engaging with the material and each other. My teaching approach emphasizes not only academic success but also the practical application of classroom concepts to real-world situations, equipping students with the skills and confidence to apply their knowledge beyond the classroom.
+description: I have developed a broad teaching portfolio, instructing courses across in-person, online synchronous, and online asynchronous formats. My experience includes teaching classes with enrollments ranging from 19 to 106 students. I was honored to receive the University of Oregon Economics Department Graduate Teaching Award for the 2023-2024 academic year, which is awarded based on cumulative teaching accomplishments and qualitative student feedback. I prioritize creating a welcoming and inclusive classroom atmosphere where students feel comfortable engaging with the material and each other. My teaching approach emphasizes not only academic success but also the practical application of classroom concepts to real-world situations, equipping students with the skills and confidence to apply their knowledge beyond the classroom.
 nav: true
 nav_order: 2
 ---
 
 **Courses Taught as a Sole Instructor**
-  -  Intro Econ Analy Micro (EC 201)- Fall 2024 (scheduled)
+  -  Intro Econ Analy Micro (EC 201)- Fall 2024 
   -  Intro Econ Analy Macro (EC 202)- Fall 2023, Winter 2024
 
       - Enrollment: 106 (F), 99 (W)
