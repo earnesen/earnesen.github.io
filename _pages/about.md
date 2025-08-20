@@ -9,9 +9,9 @@ profile:
   image: headshot_full.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>PLC 521</p>
-    <p>1415 Kincaid St.</p>
-    <p>Eugene, OR 97403</p>
+    <p>VUB 341</p>
+    <p>14204 NE Salmon Creek Ave</p>
+    <p>Vancouver, WA 98686</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
